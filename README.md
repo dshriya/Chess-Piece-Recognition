@@ -27,7 +27,7 @@ We aim to use image processing techniques to detect the chess board and deep lea
 
 - Keerthi Pothalaraju - 2020102010
 - Aishwaryabharati U - 2020102060
-- Shriya Dullr - 2020102006
+- Shriya Dullur - 2020102006
 - Sasanka GRS - 2019112017
 
 ## Biblography:
